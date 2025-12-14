@@ -1,0 +1,8 @@
+{
+  "default": "nl",
+  "languages": {
+    "en": "English",
+    "nl": "Nederlands",
+    "pl": "Polski"
+  }
+}
