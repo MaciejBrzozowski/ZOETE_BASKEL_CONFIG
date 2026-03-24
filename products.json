@@ -1,19 +1,131 @@
 {
   "products": [
     {
-      "id": "product_1",
-      "name": "Product One",
-      "price": 29.99,
-      "image": "https://dummyimage.com/300x200/2f4b78/ffffff.png&text=ZOETE+BAKSEL",
-      "description": "This is the first product.",
+      "id": "Worteltaart",
+      "name": "Worteltaart",
+      "prices": [
+        "20cm - &euro; ??"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Worteltaart.JPG",
+      "description": "Worteltaart.",
       "currency": "EUR"
     },
     {
-      "id": "product_2",
-      "name": "Product Two",
-      "price": 49.99,
-      "image": "https://dummyimage.com/300x200/2f4b78/ffffff.png&text=ZOETE+BAKSEL+2",
-      "description": "This is the second product.",
+      "id": "Appeltaart",
+      "name": "Appeltaart",
+      "prices": [
+        "20cm - &euro; 25",
+        "24cm - &euro; 30"
+      ],
+      "image": "./static/cake.png",
+      "description": "Appeltaart.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Cheesecake",
+      "name": "Cheesecake",
+      "prices": [
+        "20cm - &euro; 35",
+        "24cm - &euro; 40"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Cheesecake.JPG",
+      "description": "Cheesecake.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Peperkoektaart",
+      "name": "Peperkoektaart",
+      "prices": [
+        "20cm - &euro; 25",
+        "24cm - &euro; 30"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Cheesecake.JPG",
+      "description": "Peperkoektaart.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Maanzaadtaart",
+      "name": "Maanzaadtaart",
+      "prices": [
+        "20cm - &euro; 35",
+        "24cm - &euro; 40"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Maanzaadcake.JPG",
+      "description": "Maanzaadtaart.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Spinazietaart",
+      "name": "Spinazietaart",
+      "prices": [
+        "20cm - &euro; 30",
+        "24cm - &euro; 35"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Spinazietaart.JPG",
+      "description": "Spinazietaart.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Rafaellotaart",
+      "name": "Rafaellotaart",
+      "prices": [
+        "24cm - &euro; 35"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Rafaellotaart.JPG",
+      "description": "Rafaellotaart.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Gistdonuts",
+      "name": "Gistdonuts",
+      "prices": [
+        "Per 10 stuks &euro; 18",
+        "per 20 stuks &euro; 30"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Gistdonuts.JPG",
+      "description": "Gistdonuts.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Poolse krullen",
+      "name": "Poolse krullen",
+      "prices": [
+        "20cm - ?&euro;",
+        "24cm - ?&euro;"
+      ],
+      "image": "./static/cake.png",
+      "description": "Poolse krullen.",
+      "currency": "EUR"
+    },
+    {
+      "id": "Chocoladetaart",
+      "name": "Chocoladetaart",
+      "prices": [
+        "24cm - &euro; 35"
+      ],
+      "image": "./static/cake.png",
+      "description": "Chocoladetaart",
+      "currency": "EUR"
+    },
+    {
+      "id": "Bierkoekjes",
+      "name": "Bierkoekjes",
+      "prices": [
+        "20 szt - ?&euro;"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Bierkoekjes.JPG",
+      "description": "Bierkoekjes",
+      "currency": "EUR"
+    },
+    {
+      "id": "Wafels gevuld met karamel",
+      "name": "Wafels gevuld met karamel",
+      "prices": [
+        "Per 500 g &euro; ",
+        "Per 1 kg &euro; 20"
+      ],
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Wafels.JPG",
+      "description": "Wafels gevuld met karamel",
       "currency": "EUR"
     }
   ]
