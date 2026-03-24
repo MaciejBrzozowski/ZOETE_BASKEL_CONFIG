@@ -93,7 +93,7 @@
         "20cm - ?&euro;",
         "24cm - ?&euro;"
       ],
-      "image": "./static/cake.png",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Faworki.JPG",
       "description": "Poolse krullen.",
       "currency": "EUR"
     },
