@@ -59,7 +59,9 @@
       "ContactUsListItem1": "wat je wilt bestellen",
       "ContactUsListItem2": "voor hoeveel personen",
       "ContactUsListItem3": "datum",
-      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)"
+      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)",
+      "ContactUsPhoneNumber": "06-33751507",
+      "ContactUsEmail": "info@zoetebaksel.nl"
     }
   }
 }
