@@ -7,13 +7,22 @@
   },
   "translations": {
     "en": {
-      "welcome": "Welkom bij Zoete baksel."
+      "WelcomeText": "Welkom bij Zoete baksel.",
+      "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
+      "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
+      "ClosingText": "Center Alles wordt op bestelling gemaakt, zodat je altijd iets vers krijgt."
     },
     "nl": {
-      "welcome": "Welkom bij Zoete baksel"
+      "WelcomeText": "Welkom bij Zoete baksel.",
+      "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
+      "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
+      "ClosingText": "Center Alles wordt op bestelling gemaakt, zodat je altijd iets vers krijgt."
     },
     "pl": {
-      "welcome": "Welkom bij Zoete baksel"
+      "WelcomeText": "Welkom bij Zoete baksel.",
+      "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
+      "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
+      "ClosingText": "Center Alles wordt op bestelling gemaakt, zodat je altijd iets vers krijgt."
     }
   }
 }
