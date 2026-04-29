@@ -5,6 +5,10 @@
     "nl": "Nederlands",
     "pl": "Polski"
   },
+  "href": {
+    "ContactUsPhoneNumber": "tel:+310633751507",
+    "ContactUsEmail": "mailto:infos@zoetebaksel.nl"
+  },
   "translations": {
     "en": {
       "WelcomeText": "Welkom bij Zoete baksel.",
