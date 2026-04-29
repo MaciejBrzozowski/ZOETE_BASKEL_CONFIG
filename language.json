@@ -4,5 +4,16 @@
     "en": "English",
     "nl": "Nederlands",
     "pl": "Polski"
+  },
+  "translations": {
+    "en": {
+      "welcome": "Welkom bij Zoete baksel."
+    },
+    "nl": {
+      "welcome": "Welkom bij Zoete baksel"
+    },
+    "pl": {
+      "welcome": "Welkom bij Zoete baksel"
+    }
   }
 }
