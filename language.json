@@ -17,12 +17,16 @@
       "AboutUsText3": "Persoonlijke aandacht en bakken zoals het hoort 🤍",
       "ContactUsText1": "Wil je iets lekkers bestellen of heb je een speciaal idee? Laat me gerust weten:",
       "ContactUsText2": "Ik denk graag met je mee!",
+      "ContactUsText3P1": "Gebak bestellen kan telefonisch ( 06-33751507",
+      "ContactUsText3P2": " ) of door te mailen naar",
       "ContactUsText3": "Gebak bestellen kan telefonisch ( 06-33751507 <a href=\"tel:+310633751507\">06-33751507</a>) of door te mailen naar<a href=\"mailto:info@zoetebaksel.nl\">info@zoetebaksel.nl</a>",
       "ContactUsText4": "Afhaalmomenten zijn in overleg mogelijk.",
       "ContactUsListItem1": "wat je wilt bestellen",
       "ContactUsListItem2": "voor hoeveel personen",
       "ContactUsListItem3": "datum",
-      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)"
+      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)",
+      "ContactUsPhoneNumber": "06-33751507",
+      "ContactUsEmail": "info@zoetebaksel.nl"
     },
     "nl": {
       "WelcomeText": "Welkom bij Zoete baksel.",
@@ -35,12 +39,15 @@
       "AboutUsText3": "Persoonlijke aandacht en bakken zoals het hoort 🤍",
       "ContactUsText1": "Wil je iets lekkers bestellen of heb je een speciaal idee? Laat me gerust weten:",
       "ContactUsText2": "Ik denk graag met je mee!",
-      "ContactUsText3": "Gebak bestellen kan telefonisch ( 06-33751507 <a href=\"tel:+310633751507\">06-33751507</a>) of door te mailen naar<a href=\"mailto:info@zoetebaksel.nl\">info@zoetebaksel.nl</a>",
+      "ContactUsText3P1": "Gebak bestellen kan telefonisch ( 06-33751507",
+      "ContactUsText3P2": " ) of door te mailen naar",
       "ContactUsText4": "Afhaalmomenten zijn in overleg mogelijk.",
       "ContactUsListItem1": "wat je wilt bestellen",
       "ContactUsListItem2": "voor hoeveel personen",
       "ContactUsListItem3": "datum",
-      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)"
+      "ContactUsListItem4": "eventuele wensen (smaak, allergieën, thema)",
+      "ContactUsPhoneNumber": "06-33751507",
+      "ContactUsEmail": "info@zoetebaksel.nl"
     },
     "pl": {
       "WelcomeText": "Welkom bij Zoete baksel.",
